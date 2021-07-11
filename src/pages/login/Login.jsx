@@ -1,5 +1,5 @@
 import { LockOutlined, MailOutlined, PlusOutlined } from '@ant-design/icons';
-import { Button, Card, Checkbox, Form, Input } from 'antd';
+import { Button, Card, Form, Input } from 'antd';
 import 'antd/dist/antd.css';
 import React, { Component } from 'react';
 import logo from '../../images/facebook-logo.png';
@@ -38,7 +38,7 @@ class Login extends Component {
               rules={[
                 {
                   required: true,
-                  message: 'Please input your Email!',
+                  message: 'Vui lòng nhập lại Email hoặc Số điện thoại!',
                 },
               ]}
             >
@@ -49,7 +49,7 @@ class Login extends Component {
               rules={[
                 {
                   required: true,
-                  message: 'Please input your Password!',
+                  message: 'Vui lòng nhập lại Password!',
                 },
               ]}
             >

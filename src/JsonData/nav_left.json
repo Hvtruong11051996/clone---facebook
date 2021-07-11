@@ -2,51 +2,110 @@
   {
     "images" : "ban-be.png",
     "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/yx/r/-XF4FQcre_i.png",
-    "title" : "Bạn Bè"
+    "title" : "Bạn Bè",
+    "path" : "/friends"
   },
   {
     "images" : "nhom.png",
     "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/mk4dH3FK0jT.png",
-    "title" : "Nhóm"
+    "title" : "Nhóm",
+    "path" : "/groups"
+
   },
   {
     "images" : "9BDqQflVfXI.png",
     "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/ys/r/9BDqQflVfXI.png",
-    "title" : "Marketplace"
+    "title" : "Marketplace",
+    "path" : "/marketplace"
   },
   {
     "images" : "QAyfjudAqqG.png",
     "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/yv/r/QAyfjudAqqG.png",
-    "title" : "Sự Kiện"
+    "title" : "Sự Kiện",
+    "path" : "/events"
   },
   {
     "images" : "A2tHTy6ibgT.png",
     "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/A2tHTy6ibgT.png",
-    "title" : "Chiến Dịch Gây Quỹ"
+    "title" : "Chiến Dịch Gây Quỹ",
+    "path" : "/fundraisers"
   },
   {
     "images" : "XEWvxf1LQAG.png",
     "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/yn/r/XEWvxf1LQAG.png",
-    "title" : "Chơi Game"
+    "title" : "Chơi Game",
+    "path" : "/games"
   },
   {
     "images" : "YF1bztyGuX-.png",
     "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/YF1bztyGuX-.png",
-    "title" : "Messenger"
+    "title" : "Messenger",
+    "path" : "/friends"
   },
   {
     "images" : "kULMG0uFcEQ.png",
     "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/kULMG0uFcEQ.png",
-    "title" : "Thời Tiết"
+    "title" : "Thời Tiết",
+    "path" : "/weather"
   },
   {
     "images" : "dghnujhRAoU.png",
     "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/yG/r/dghnujhRAoU.png",
-    "title" : "Live"
+    "title" : "Live",
+    "path" : "/live"
   },
   {
     "images" : "Zy9sJGThmCS.png",
     "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/Zy9sJGThmCS.png",
-    "title" : "Yêu Thích"
+    "title" : "Yêu Thích",
+    "path" : "/favorites"
+  },
+  {
+    "images" : "Zy9sJGThmCS.png",
+    "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/Zy9sJGThmCS.png",
+    "title" : "Yêu Thích",
+    "path" : "/favorites"
+  },
+  {
+    "images" : "Zy9sJGThmCS.png",
+    "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/Zy9sJGThmCS.png",
+    "title" : "Yêu Thích",
+    "path" : "/favorites"
+  },
+  {
+    "images" : "Zy9sJGThmCS.png",
+    "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/Zy9sJGThmCS.png",
+    "title" : "Yêu Thích",
+    "path" : "/favorites"
+  },
+  {
+    "images" : "Zy9sJGThmCS.png",
+    "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/Zy9sJGThmCS.png",
+    "title" : "Yêu Thích",
+    "path" : "/favorites"
+  },
+  {
+    "images" : "Zy9sJGThmCS.png",
+    "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/Zy9sJGThmCS.png",
+    "title" : "Yêu Thích",
+    "path" : "/favorites"
+  },
+  {
+    "images" : "Zy9sJGThmCS.png",
+    "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/Zy9sJGThmCS.png",
+    "title" : "Yêu Thích",
+    "path" : "/favorites"
+  },
+  {
+    "images" : "Zy9sJGThmCS.png",
+    "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/Zy9sJGThmCS.png",
+    "title" : "Yêu Thích",
+    "path" : "/favorites"
+  },
+  {
+    "images" : "Zy9sJGThmCS.png",
+    "url" : "https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/Zy9sJGThmCS.png",
+    "title" : "Yêu Thích",
+    "path" : "/favorites"
   }
 ]

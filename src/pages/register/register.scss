@@ -1,0 +1,42 @@
+.register-facebook {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 50px;
+
+  .register-facebook__header {
+    margin-bottom: 30px;
+    text-align: center;
+
+    img {
+      width: 400px;
+      margin-bottom: 10px;
+    }
+
+    h4 {
+      color: #bfbfbf;
+    }
+  }
+}
+
+.register-facebook__form {
+  .ant-form {
+    width: 700px;
+
+    label {
+      color: #1877f2;
+    }
+
+    .ant-input, .ant-input-affix-wrapper, .ant-picker, .ant-select-selector {
+      border-radius: 6px !important;
+    }
+
+    .ant-btn-primary {
+      width: 470px;
+      height: 42px;
+      border-radius: 6px !important;
+      margin-bottom: 10px;
+    }
+  }
+}

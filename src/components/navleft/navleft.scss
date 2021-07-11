@@ -1,0 +1,46 @@
+.fb-left {
+  cursor: pointer;
+  margin-top: 20px;
+  margin-left: 10px;
+  width: 320px;
+  // overflow-y: scroll;
+
+  &__title {
+    display: flex;
+
+    img {
+      border-radius: 50%;
+      margin-right: 10px;
+      width: 40px;
+    }
+
+    h5 {
+      margin-top: 10px;
+    }
+  }
+
+
+  &__title:hover h5{
+    color: #1890ff;
+  }
+
+  &__content:hover {
+    background-color: #d9d9d9;
+    border-radius: 10px;
+  }
+
+  &__content a {
+    display: flex;
+    margin-top: 20px;
+
+    img {
+      width: 40px;
+      margin-right: 10px;
+    }
+
+    h5 {
+      margin-top: 12px;
+    }
+  }
+
+}
